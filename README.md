@@ -1,3 +1,6 @@
+LIVE PREVIEW [netflix clone Link 1](https://netflix-clone-4ed07.web.app/).
+LIVE PREVIEW [netflix clone Link 2](https://netflix-clone-4ed07.firebaseapp.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
